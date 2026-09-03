@@ -24,12 +24,26 @@ A browser-based to-do list built with HTML, CSS and JavaScript.
 - CSS
 - JavaScript
 - LocalStorage
+## Screenshots
+
+### Main Interface
+
+![Main Interface](Screenshot%202026-09-03%20at%2022.35.24.png)
+
+### Completed Tasks
+
+![Completed Tasks](Screenshot%202026-09-03%20at%2022.36.21.png)
+
+### Category Management
+
+![Category Management](Screenshot%202026-09-03%20at%2022.40.27.png)
 
 ## How to Run
 
-1. Clone the repository.
-2. Open `index.html` in a browser.
+1. Clone this repository.
+2. Open `index.html` in a web browser.
 3. Start adding tasks.
+
 
 ## Version History
 
